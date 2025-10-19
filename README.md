@@ -7,6 +7,8 @@ A beautiful, feature-rich calculator web application built with React, Vite, and
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?style=for-the-badge&logo=vite)
 
+<img width="1897" height="527" alt="banner-calc" src="https://github.com/user-attachments/assets/5c3009cc-c177-4a3f-b242-bd0aa2edfad2" />
+
 ## 🌸 Features
 
 ### Core Functionality
