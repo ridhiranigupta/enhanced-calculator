@@ -83,7 +83,8 @@ function App() {
       if (binaryMode || e.target.tagName === 'INPUT') return;
 
       e.preventDefault();
-
+      // https://github.com/aryan-astra
+      // You can delete me but not my code :)
       // Numbers
       if (e.key >= '0' && e.key <= '9') {
         inputDigit(parseInt(e.key));
@@ -531,3 +532,4 @@ function App() {
 }
 
 export default App;
+
